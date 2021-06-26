@@ -3,6 +3,7 @@
 A series of python notebooks featuring the following and more:
 
 #### Topics including:
+- exploratory data analysis
 - feature extraction and classification
 - pattern recognition
 - supervised and unsupervised learning
