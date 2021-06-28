@@ -13,4 +13,4 @@ A series of python notebooks featuring the following and more:
 as applied to the analysis of biomedical data
 
 
-Special thanks to *Shadi Khalifa*
+Special thanks to *Dr. Shadi Khalifa*
