@@ -12,5 +12,6 @@ A series of python notebooks featuring the following and more:
 
 as applied to the analysis of biomedical data
 
+(included as a part of BMIF802)
 
 Special thanks to *Dr. Shadi Khalifa*
